@@ -5,7 +5,7 @@
 - 📫 How to reach me ... Email: joseph.dimartino1207@gmail.com Feel free to reach out to collaborate on projects!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a 3D printer! In my free time I design models to print so i can decorate my room or give them as gifts
-
+- Most Recent Project Idea: Chess... But with AI! 
 <!---
 JoeyDiMart/JoeyDiMart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
