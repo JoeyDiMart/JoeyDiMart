@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @JoeyDiMart<br>👀 I’m interested in creating optimized algorithms for common issues and interests in Network security!<br>🌱 I’m currently reverse engineering DOOM for my own custom PVP server and creating an AI-integrated web scanner following OWASP standards<br>📫 How to reach me ... Email: jdimartino1207@gmail.com Feel free to reach out to collaborate on projects!<br>⚡ Fun fact: I have a 3D printer! In my free time I design models to print so i can decorate my room or give them as gifts<br>Most Recent Project Idea: Web exploitation with AI integration + my UTampa capstone project (Glide+)<br>
+👋 Hi, I’m @JoeyDiMart<br>👀 I’m interested in creating optimized algorithms for common issues and interests in Network security!<br>🌱 I’m currently reverse engineering DOOM for my own custom PVP server and creating an AI-integrated web scanner following OWASP standards<br>📫 How to reach me ... Email: jdimartino1207@gmail.com Feel free to reach out to collaborate on projects!<br>⚡ Fun fact: I 3d print things and I have so much motion in Balatro<br>Most Recent Project Idea: Web exploitation with AI integration + my UTampa capstone project (Glide+)<br>
 
 
 ## 🌐 Socials:
